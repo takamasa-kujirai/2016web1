@@ -34,14 +34,6 @@ background-color:yellow;
 width:500px;
 float:left;
 }
-aside{
-background-color:blue;
-width:200px;
-float:right;
-position:relative;
-top:20px;
-right:10px;
-}
 footer{
 background-color:purple;
 clear:both;
