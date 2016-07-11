@@ -30,7 +30,7 @@ width:500px;
 float:left;
 }
 footer{
-background-color:purple;
+background-color:gray;
 clear:both;
 }
 .box{
@@ -43,7 +43,7 @@ float:left;
 overflow:auto;
 }
 #good_picture{
-  width:24px;
+  width:40px;
   position:absolute;
   left:50px;
   top:50px;
